@@ -1,1 +1,2 @@
 # LamarLyons-Business-Intelligence-and-Strategy
+### Some of the key responsibilities in BI include improving back-end data sources for increased accuracy and simplicity, building tailored analytics solutions, managing dashboards, reporting to stakeholders, identifying opportunities and recognizing best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation.
